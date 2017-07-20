@@ -1,0 +1,7 @@
+{
+  "name": "test-site",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "cd",
+  "license": "MIT"
+}
